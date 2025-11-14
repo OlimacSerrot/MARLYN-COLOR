@@ -1,0 +1,46 @@
+Copyright (c) 2025 Olimacserrot
+Todos los derechos reservados.
+
+El sitio web identificado como "Marlyn Color" fue desarrollado íntegramente por 
+Olimacserrot durante su servicio militar.
+
+El proyecto, sus archivos y componentes están registrados en el repositorio oficial de código fuente 
+bajo el mismo nombre ("Marlyn Color") perteneciente al usuario GitHub: 
+https://github.com/olimacserrot  (o enlace correspondiente).
+
+Algunos fragmentos de código pueden encontrarse en plataformas públicas como CodePen 
+bajo el mismo nombre de usuario ("Olimacserrot"). Sin embargo, la integración completa del 
+proyecto, el diseño visual, la estructura, las animaciones, efectos y comportamiento funcional 
+son creación original y exclusiva de Olimacserrot.
+
+Los **planos de diseño y prototipos** se pueden consultar en Figma, y las **tareas y planificación** 
+en Trello, ambos vinculados al proyecto. Estos materiales son propiedad intelectual de Olimacserrot 
+y su acceso no implica autorización para uso, copia o distribución sin permiso expreso.
+
+Se deja constancia de que **no existe ningún contrato firmado ni acuerdo con la empresa Marlyn Color**, 
+por lo que todos los derechos sobre el desarrollo, diseño, código, prototipos, planificación y contenido 
+del sitio web pertenecen exclusivamente a Olimacserrot.
+
+Estructura de propiedad intelectual:
+- Código HTML, CSS y JavaScript: Desarrollado por Olimacserrot.
+- Diseño visual, estructura de navegación, efectos, animaciones y scripts: Creación original.
+- Archivos multimedia (imágenes, íconos, música, tipografías y otros recursos): Adaptados y optimizados para este proyecto.
+- Comportamiento funcional del sitio (interacciones, enlaces y lógica visual): Desarrollado manualmente, sin uso de plantillas de terceros.
+
+Queda estrictamente prohibida cualquier copia, redistribución, modificación, uso comercial 
+o reutilización parcial o total de este código, diseño, prototipos o planificación sin autorización escrita de su autor.
+
+El creador se reserva el derecho de **retirar el acceso al repositorio** o eliminar cualquier copia 
+del proyecto si los usuarios no cumplen con los términos establecidos.
+
+Este aviso se encuentra respaldado por las leyes colombianas de **propiedad intelectual y derechos de autor**, 
+en particular:
+- **Ley 23 de 1982**: Reconoce la protección de obras literarias, artísticas y científicas.  
+- **Ley 603 de 2000**: Establece protección sobre software, bases de datos y obras digitales.  
+- **Ley 1581 de 2012**: Protección de datos personales asociados a contenidos digitales.  
+
+Proyecto: Marlyn Color  
+Creador y propietario: **Olimacserrot**  
+Año de creación: 2025
+
+
