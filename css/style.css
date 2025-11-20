@@ -48,8 +48,10 @@ body {
 /*header section*/
 .hero_area {
   height: 94vh;
-  background: -webkit-gradient(linear, left top, right top, from(#864ddf), to(#203376));
-  background: linear-gradient(to right, #864ddf, #203376);
+  /*background: -webkit-gradient(linear, left top, right top, from(#864ddf), to(#203376));
+  background: linear-gradient(to right, #864ddf, #203376);*/
+background-image: url(../images/COLECCIONES/temporadas/navidad\ 2025/fondo.jpeg);
+
 }
 
 .hero_area::before {
@@ -91,7 +93,7 @@ body {
 
 .custom_nav-container.navbar-expand-lg .navbar-nav .nav-link {
   padding: 10px 30px;
-  color: #f9fcfb;
+  color: #48ff00;
   text-align: center;
   text-transform: uppercase;
 }
@@ -156,7 +158,7 @@ a:focus {
 /*end header section*/
 /* slider section */
 .slider_section {
-  color: #f9fcfb;
+  color: #fd6254;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -319,7 +321,7 @@ a:focus {
 .service_section {
   text-align: center;
   color: #000000;
-  background-image: url(../images/service-bg.png);
+  background-image: url(../images/service-bg1.png);
   background-size: 100% 100%;
   padding-top: 275px;
   padding-bottom: 125px;
@@ -426,9 +428,10 @@ a:focus {
 }
 
 .why_section {
-  color: #f9fcfb;
-  background: -webkit-gradient(linear, left top, right top, from(#1b3374), to(#8f4fe8));
-  background: linear-gradient(to right, #1b3374, #8f4fe8);
+  color: #0f100f;
+  /*background: -webkit-gradient(linear, left top, right top, from(#1b3374), to(#8f4fe8));
+  background: linear-gradient(to right, #1b3374, #8f4fe8);*/
+  background-image: url(../images/service-bg1.png);
 }
 
 .why_section .custom_heading-container h2 {
@@ -706,7 +709,7 @@ a:focus {
 
 /* info section */
 .footer_bg {
-  background-image: url(../images/footer-bg.png);
+  background-image: url(../images/COLECCIONES/temporadas/navidad\ 2025/fondo.jpeg);
   background-size: cover;
   padding-top: 280px;
   margin-top: -125px;
@@ -781,7 +784,7 @@ a:focus {
   border: none;
   outline: none;
   padding-left: 15px;
-  background-color: #fff;
+  background-color: #ab3030;
   margin-left: 45px;
   margin-right: 10px;
 }
@@ -790,7 +793,7 @@ a:focus {
   display: inline-block;
   padding: 8px 50px;
   background-color: #ffca56;
-  color: #f9fcfb;
+  color: #40f0b5;
   border-radius: 5px;
   -webkit-box-shadow: 0px 2px 7px 0px rgba(32, 50, 117, 0.26);
   box-shadow: 0px 2px 7px 0px rgba(32, 50, 117, 0.26);
@@ -824,7 +827,7 @@ a:focus {
 }
 
 .footer_section p {
-  color: #f9fcfb;
+  color: #00dd93;
   margin: 0;
   text-align: center;
   padding: 20px 15%;
@@ -832,7 +835,7 @@ a:focus {
 }
 
 .footer_section a {
-  color: #f9fcfb;
+  color: #121313;
 }
 
 /* end footer section*/
